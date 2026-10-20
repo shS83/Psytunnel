@@ -1,0 +1,3 @@
+#pragma once
+inline constexpr const char* VertexSource = R"GLSL(@TUNNEL_VERTEX@)GLSL";
+inline constexpr const char* FragmentSource = R"GLSL(@TUNNEL_FRAGMENT@)GLSL";
